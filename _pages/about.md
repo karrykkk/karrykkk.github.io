@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Siqi Kou"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About Me
 
 👋 Hi there! 
 
@@ -26,6 +27,7 @@ Currently, my research interests lie in:
 
  
 ## Selected Publications [[More]](https://karrykkk.github.io/publications/)
+
 \* denotes equal contribution.
   
 [BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference](https://arxiv.org/pdf/2310.11142)<br>
@@ -111,4 +113,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.>
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.--->
