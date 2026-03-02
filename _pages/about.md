@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siqi Kou"
+title: "Siqi Kou（寇思麒）"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,32 +25,30 @@ Currently, my research interests lie in:
 Selected Publications [[More]](https://karrykkk.github.io/publications/)
 ===
 \* denotes equal contribution.
-  
-**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**<br>
-**Siqi Kou**, Lei Gan, Dequan Wang, Chongxuan Li, Zhijie Deng<br>
-*International Conference on Learning Representations (ICLR), 2024.* [[Paper]](https://arxiv.org/pdf/2310.11142) | [[Code]](https://github.com/karrykkk/BayesDiff)
-
-**CLLMs: Consistency Large Language Models**<br>
-**Siqi Kou**\*, Lanxiang Hu\*, Zhezhi He, Zhijie Deng, Hao Zhang<br>
-*International Conference on Machine Learning (ICML), 2024.* [[Paper]](https://arxiv.org/pdf/2403.00835) | [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
-
-**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**<br>
-**Siqi Kou**, Jiachun Jin, Zhihong Liu, Chang Liu, Ye Ma, Jian Jia, Quan Chen, Peng Jiang, Zhijie Deng<br>
-*International Conference on Machine Learning (ICML), 2025.* [[Paper]](https://arxiv.org/pdf/2309.03729) | [[Code]](https://github.com/sjtuplayer/few-shot-diffusion)
-
-**Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**
-<br>
-**Siqi Kou**, Qingyuan Tian, Hanwen Xu, Zihao Zeng, Zhijie Deng<br>
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* [[Paper]](https://arxiv.org/pdf/2505.19949)
-
-**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**<br>
-Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yuxiong He, Zhijie Deng, Hao Zhang<br>
-*Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
 
 **Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**<br>
 **Siqi Kou**\*, Jiachun Jin\*, Zetong Zhou\*, Ye Ma, Yugang Wang, Quan Chen, Peng Jiang, Xiao Yang, Jun Zhu, Kai Yu, Zhijie Deng<br>
 *Preprint, 2026.* [[Paper]](https://arxiv.org/abs/2601.10332) | [[Code]](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)
 
+**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**<br>
+Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yuxiong He, Zhijie Deng, Hao Zhang<br>
+*Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
+
+**Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**<br>
+**Siqi Kou**, Qingyuan Tian, Hanwen Xu, Zihao Zeng, Zhijie Deng<br>
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.* [[Paper]](https://arxiv.org/pdf/2505.19949)
+
+**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**<br>
+**Siqi Kou**, Jiachun Jin, Zhihong Liu, Chang Liu, Ye Ma, Jian Jia, Quan Chen, Peng Jiang, Zhijie Deng<br>
+*International Conference on Machine Learning (ICML), 2025.* [[Paper]](https://arxiv.org/pdf/2309.03729) | [[Code]](https://github.com/sjtuplayer/few-shot-diffusion)
+
+**CLLMs: Consistency Large Language Models**<br>
+**Siqi Kou**\*, Lanxiang Hu\*, Zhezhi He, Zhijie Deng, Hao Zhang<br>
+*International Conference on Machine Learning (ICML), 2024.* [[Paper]](https://arxiv.org/pdf/2403.00835) | [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
+
+**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**<br>
+**Siqi Kou**, Lei Gan, Dequan Wang, Chongxuan Li, Zhijie Deng<br>
+*International Conference on Learning Representations (ICLR), 2024.* [[Paper]](https://arxiv.org/pdf/2310.11142) | [[Code]](https://github.com/karrykkk/BayesDiff)
 
 <!---## Honors & Awards--->
 
@@ -58,11 +56,11 @@ Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yux
 Academic Services
 ===
 
-**Reviewers for:** ICML, ICLR, CVPR
+**Invited talks:** [Multimodal Learning and Alignment](http://bilibili.com/video/BV1mA3yzEEWF?spm_id_from=333.788.videopod.sections&vd_source=ed80914eaefe0f3ca755d26f69367033), AITIME Forum, Fall 2025.
 
-**Talks:** AI TIME
+**TAs for:** CS3308-02 Machine Learning, instructed by Prof. Zhijie Deng, Shanghai Jiao Tong University.
 
-**TAs for:** CSxxx
+**Reviewers for:** ICML 2024-; ICLR 2025-; NeurIPS 2025; CVPR 2025-.
 
 <!---This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
