@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Siqi Kou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋 Hi there! 
-
-I'm a 2nd-year Ph.D. student at Shanghai Jiao Tong University (SJTU), where I am fortunate to be advised by Prof. [Zhijie Deng](https://thudzj.github.io/). My research focuses on developing machine learning methodologies to build more reliable and efficient generative models.
+👋 Hi there! I'm a 2nd-year Ph.D. student at Shanghai Jiao Tong University (SJTU), where I am fortunate to be advised by Prof. [Zhijie Deng](https://thudzj.github.io/). My research focuses on developing machine learning methodologies to build more reliable and efficient generative models.
 
 Previously, I received my B.S. in Mathematics from SJTU, where I was fortunate to work closely with [Teng Hu](https://sjtuplayer.github.io/) and advised by Prof. [Ran Yi](https://yiranran.github.io/). In Fall 2023, I also had the opportunity to study as an exchange student at the Chinese University of Hong Kong (CUHK).
 
@@ -28,30 +26,30 @@ Selected Publications [[More]](https://karrykkk.github.io/publications/)
 ===
 \* denotes equal contribution.
   
-[BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference](https://arxiv.org/pdf/2310.11142)<br>
+**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**<br>
 **Siqi Kou**, Lei Gan, Dequan Wang, Chongxuan Li, Zhijie Deng<br>
-*International Conference on Learning Representations (ICLR), 2024.* [[Code]](https://github.com/karrykkk/BayesDiff)
+*International Conference on Learning Representations (ICLR), 2024.* [[Paper]](https://arxiv.org/pdf/2310.11142) | [[Code]](https://github.com/karrykkk/BayesDiff)
 
-[CLLMs: Consistency Large Language Models](https://arxiv.org/pdf/2403.00835)<br>
+**CLLMs: Consistency Large Language Models**<br>
 **Siqi Kou**\*, Lanxiang Hu\*, Zhezhi He, Zhijie Deng, Hao Zhang<br>
-*International Conference on Machine Learning (ICML), 2024.* [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
+*International Conference on Machine Learning (ICML), 2024.* [[Paper]](https://arxiv.org/pdf/2403.00835) | [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
 
-[Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads](https://arxiv.org/pdf/2309.03729)<br>
+**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**<br>
 **Siqi Kou**, Jiachun Jin, Zhihong Liu, Chang Liu, Ye Ma, Jian Jia, Quan Chen, Peng Jiang, Zhijie Deng<br>
-*International Conference on Machine Learning (ICML), 2025.* [[Code]](https://github.com/sjtuplayer/few-shot-diffusion)
+*International Conference on Machine Learning (ICML), 2025.* [[Paper]](https://arxiv.org/pdf/2309.03729) | [[Code]](https://github.com/sjtuplayer/few-shot-diffusion)
 
-[Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions](https://arxiv.org/pdf/2505.19949)
+**Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**
 <br>
 **Siqi Kou**, Qingyuan Tian, Hanwen Xu, Zihao Zeng, Zhijie Deng<br>
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* 
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.* [[Paper]](https://arxiv.org/pdf/2505.19949)
 
-[Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://arxiv.org/abs/2512.14681)<br>
+**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**<br>
 Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yuxiong He, Zhijie Deng, Hao Zhang<br>
-*Preprint, 2025.* [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
+*Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
 
-[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](https://arxiv.org/abs/2601.10332)<br>
+**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**<br>
 **Siqi Kou**\*, Jiachun Jin\*, Zetong Zhou\*, Ye Ma, Yugang Wang, Quan Chen, Peng Jiang, Xiao Yang, Jun Zhu, Kai Yu, Zhijie Deng<br>
-*Preprint, 2026.* [[Code]](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)
+*Preprint, 2026.* [[Paper]](https://arxiv.org/abs/2601.10332) | [[Code]](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)
 
 
 <!---## Honors & Awards--->
