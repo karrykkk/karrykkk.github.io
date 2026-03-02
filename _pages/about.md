@@ -58,7 +58,7 @@ Academic Services
 
 **Invited talks:** [Multimodal Learning and Alignment](http://bilibili.com/video/BV1mA3yzEEWF?spm_id_from=333.788.videopod.sections&vd_source=ed80914eaefe0f3ca755d26f69367033), AITIME Forum, Fall 2025.
 
-**TAs for:** CS3308-02 Machine Learning, instructed by Prof. Zhijie Deng, Shanghai Jiao Tong University.
+**TA for:** CS3308-02 Machine Learning, instructed by Prof. Zhijie Deng, Shanghai Jiao Tong University.
 
 **Reviewers for:** ICML 2024-; ICLR 2025-; NeurIPS 2025; CVPR 2025-.
 
