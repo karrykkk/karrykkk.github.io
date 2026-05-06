@@ -9,13 +9,13 @@ author_profile: true
 
 **Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**<br>
 **Siqi Kou**\*, Jiachun Jin\*, Zetong Zhou\*, Ye Ma, Yugang Wang, Quan Chen, Peng Jiang, Xiao Yang, Jun Zhu, Kai Yu, Zhijie Deng<br>
-*Preprint, 2026.* [[Paper]](https://arxiv.org/abs/2601.10332) | [[Code]](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)
+*International Conference on Machine Learning (ICML), 2026.* [[Paper]](https://arxiv.org/abs/2601.10332) | [[Code]](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)
 
-## 2025
 **Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**<br>
 Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yuxiong He, Zhijie Deng, Hao Zhang<br>
-*Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
+*International Conference on Machine Learning (ICML), 2026.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
 
+## 2025
 **Thinking with Generated Images**  
 Ethan Chern*, Zhulin Hu*, Steffi Chern*, **Siqi Kou**, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
 *Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2505.22525) | [[Code]](https://github.com/GAIR-NLP/thinking-with-generated-images)
