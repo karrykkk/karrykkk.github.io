@@ -16,7 +16,7 @@ Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yux
 *International Conference on Machine Learning (ICML), 2026.* [[Paper]](https://arxiv.org/abs/2512.14681) | [[Code]](https://github.com/hao-ai-lab/JacobiForcing)
 
 ## 2025
-**Thinking with Generated Images**  
+**Thinking with Generated Images**<br>
 Ethan Chern*, Zhulin Hu*, Steffi Chern*, **Siqi Kou**, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
 *Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2505.22525) | [[Code]](https://github.com/GAIR-NLP/thinking-with-generated-images)
 
@@ -37,7 +37,7 @@ Bokai Lin, Zihao Zeng, Zipeng Xiao, **Siqi Kou**, ..., Zhijie Deng<br>
 **Siqi Kou**\*, Lanxiang Hu\*, Zhezhi He, Zhijie Deng, Hao Zhang<br>
 *International Conference on Machine Learning (ICML), 2024.* [[Paper]](https://arxiv.org/pdf/2403.00835) | [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
 
-**Amortized Fourier Neural Operators**
+**Amortized Fourier Neural Operators**<br>
 Zipeng Xiao, **Siqi Kou**, Zhongkai Hao, Bokai Lin, Zhijie Deng<br>
 *Conference on Neural Information Processing Systems (NeurIPS), 2024.* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/d06a797c436cd5136a6f45b063316278-Paper-Conference.pdf)
 
