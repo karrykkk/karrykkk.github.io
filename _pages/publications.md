@@ -17,7 +17,7 @@ Lanxiang Hu\*, **Siqi Kou**\*, Yichao Fu, Samyam Rajbhandari, Tajana Rosing, Yux
 
 ## 2025
 **Thinking with Generated Images**<br>
-Ethan Chern*, Zhulin Hu*, Steffi Chern*, **Siqi Kou**, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
+Ethan Chern, Zhulin Hu, Steffi Chern, **Siqi Kou**, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu  
 *Preprint, 2025.* [[Paper]](https://arxiv.org/abs/2505.22525) | [[Code]](https://github.com/GAIR-NLP/thinking-with-generated-images)
 
 **Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**<br>
