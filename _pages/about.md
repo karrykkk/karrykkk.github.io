@@ -15,7 +15,7 @@ Currently, my research interests lie in:
 
 **Multimodal Content Generation:** Developing native multimodal foundation models for seamless text, image, and video generation; focusing on pre-training architectures and RL post-training to maximize cross-modal synergies.
 
-**Efficient LLM/MLLM Inference:** Designing algorithms that improve the inference efficiency of generative models; including optimizing both training and inference mechanisms.
+**LLM Inference Acceleration:** Designing algorithms that improve the inference efficiency of generative models; including optimizing both training and inference mechanisms.
 
 
 <!---## News-->
